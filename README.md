@@ -1,4 +1,4 @@
 # CryptoVerse
 Project coming soon!
-![image](https://user-images.githubusercontent.com/56802713/190287444-44d88096-04fc-4ec9-b442-1c508861c2fd.png)
+![image](https://user-images.githubusercontent.com/56802713/190291746-4cc57e17-97b3-4624-b2f2-4253aacd6fc2.png)
 
